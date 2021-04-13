@@ -1,0 +1,25 @@
+#pg4{
+    background-color: #9ff500;
+    color: #237bff;
+    width: 100vw;
+    height: 100vh;
+}
+.title{
+    margin-top: 1em;
+    margin-left: 2em;
+    text-align: left;
+}
+
+.icons{
+    text-align: right;
+    position: fixed;
+    top: 90%;
+    right: 1%;
+    margin-right: 2em;
+}
+.icon{
+    padding: 0.2em;
+}
+.icon:hover{
+    transform: scale(1.1);
+}

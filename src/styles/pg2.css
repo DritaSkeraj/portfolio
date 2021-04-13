@@ -1,0 +1,58 @@
+#pg2{
+    background-color: #3E363F;
+    color: #ff9e9a;
+    width: 100vw;
+    height: 100vh;
+}
+.title{
+    margin-top: 1em;
+    margin-left: 2em;
+    text-align: left;
+}
+.container{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.project-info{
+    position: absolute;
+    top: 35%;
+    left: 8%;
+}
+.logo{
+    font-size: 1.5em;
+    color: #F2EFE9;
+    display: inline;
+}
+h1{
+    text-align: left;
+    display: inline;
+}
+.project-info>p{
+    font-weight: 400;
+    font-size: 0.5em;
+}
+.in-progress{
+    font-size: 0.4 !important;
+}
+.imgs-holder{
+    display: block;
+    position: absolute;
+    right: 1em !important;
+}
+.img1{
+    width: 12em;
+    height: 8.5em;
+    border-radius: 1em;
+    position: absolute;
+    right: 3em;
+    top: 10 !important;
+    z-index: 100;
+}
+.icons{
+}
+.icon{
+    padding: 0.2em;
+}
+.icon:hover{
+    transform: scale(1.1);
+}

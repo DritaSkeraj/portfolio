@@ -1,0 +1,52 @@
+#pg1{
+    background-color: #FFFCE8;
+    color: #3E363F;
+    width: 100vw;
+    height: 100vh;
+}
+.title{
+    margin-top: 1em;
+    margin-left: 2em;
+    text-align: left;
+}
+.about{
+    padding: 1.5em 2.5em;
+    /* border: 1px solid #F2EFE9; */
+    border-radius: 15px;
+    /* margin: 0 auto; */
+    margin-left: -15em !important;
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 0.6em;
+    font-weight: 500;
+    line-height: 0.8em;
+    margin-top: 4%;
+    text-align: left;
+}
+.greet{
+    font-style: 0.8em !important;
+}
+a{
+    color: #3E363F;
+    text-decoration-line: none;
+}
+.mern{
+    /* font-weight: 700; */
+}
+.small{
+    font-size: 0.8em;
+}
+.icons{
+    text-align: right;
+    position: fixed;
+    top: 90%;
+    right: 1%;
+    margin-right: 2em;
+    color: #3E363F;
+}
+.icon{
+    padding: 0.2em;
+}
+.icon:hover{
+    transform: scale(1.1);
+}
