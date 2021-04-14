@@ -1,5 +1,5 @@
 #pg7{
-    background-color: #48A9A6;
+    background-color: #a00000;
     color: #FFFCE8;
     width: 100vw;
     height: 100vh;
@@ -17,8 +17,9 @@
     right: 1%;
     margin-right: 2em;
 }
-.icon{
+.icon7{
     padding: 0.2em;
+    color: white;
 }
 .icon:hover{
     transform: scale(1.1);

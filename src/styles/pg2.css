@@ -1,6 +1,6 @@
 #pg2{
-    background-color: #3E363F;
-    color: #ff9e9a;
+    background-color: #EAE8FF;
+    color: #0024D6;
     width: 100vw;
     height: 100vh;
 }
@@ -20,7 +20,7 @@
 }
 .logo{
     font-size: 1.5em;
-    color: #F2EFE9;
+    color: #0024D6;
     display: inline;
 }
 h1{
@@ -49,9 +49,11 @@ h1{
     z-index: 100;
 }
 .icons{
+    color: #0024D6;
 }
-.icon{
+.icon2{
     padding: 0.2em;
+    color: #0024D6;
 }
 .icon:hover{
     transform: scale(1.1);

@@ -47,13 +47,13 @@ const Pg1 = () => {
       </div>
       <div className="icons">
         <a href="https://github.com/DritaSkeraj/" target="_blank">
-          <FaGithub className="icon"/>
+          <FaGithub className="icon1"/>
         </a>
         <a href="https://www.linkedin.com/in/dritaskeraj/" target="_blank">
-          <FaLinkedin className="icon"/>
+          <FaLinkedin className="icon1"/>
         </a>
         <a href="https://www.hackerrank.com/dritaskeraj" target="_blank">
-          <FaHackerrank className="icon"/>
+          <FaHackerrank className="icon1"/>
         </a>
       </div>
     </div>

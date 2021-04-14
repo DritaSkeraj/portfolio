@@ -14,7 +14,7 @@ function App() {
 
   return (
     <div>
-      <LiquidSwipe components={components} colors={["#FFFCE8", "#0f0", "#00f"]}/>
+      <LiquidSwipe components={components} colors={["#9E00E3", "#EAE8FF", "#0024D6", "#00D682", "#fff"]}/>
     </div>
   );
 }

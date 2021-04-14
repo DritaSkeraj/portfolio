@@ -1,6 +1,6 @@
 #pg5{
-    background-color: #D4B483;
-    color: #48A9A6;
+    background-color: #00D682;
+    color: #a00000;
     width: 100vw;
     height: 100vh;
 }
@@ -17,8 +17,9 @@
     right: 1%;
     margin-right: 2em;
 }
-.icon{
+.icon5{
     padding: 0.2em;
+    color: #a00000;
 }
 .icon:hover{
     transform: scale(1.1);

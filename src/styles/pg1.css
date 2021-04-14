@@ -1,6 +1,6 @@
 #pg1{
-    background-color: #FFFCE8;
-    color: #3E363F;
+    background-color: #61008B;
+    color: #EAE8FF;
     width: 100vw;
     height: 100vh;
 }
@@ -27,7 +27,7 @@
     font-style: 0.8em !important;
 }
 a{
-    color: #3E363F;
+    color: #EAE8FF;
     text-decoration-line: none;
 }
 .mern{
@@ -44,8 +44,9 @@ a{
     margin-right: 2em;
     color: #3E363F;
 }
-.icon{
+.icon1{
     padding: 0.2em;
+    color: #EAE8FF;
 }
 .icon:hover{
     transform: scale(1.1);

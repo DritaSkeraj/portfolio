@@ -1,6 +1,6 @@
 #pg3{
-    background-color: #DD403A;
-    color: #D4B483;
+    background-color: #0024D6;
+    color: #00D682;
     width: 100vw;
     height: 100vh;
 }
@@ -16,9 +16,11 @@
     top: 90%;
     right: 1%;
     margin-right: 2em;
+    color: #00D682;
 }
-.icon{
+.icon3{
     padding: 0.2em;
+    color: #00D682;
 }
 .icon:hover{
     transform: scale(1.1);
