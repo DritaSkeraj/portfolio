@@ -10,7 +10,7 @@ const Pg3 = () => {
       <h6 className="title">Drita Skeraj</h6>
       <div className="container">
             <div className="project-info">
-              <FaLinkedin className="logo" />
+              <FaLinkedin className="logo" style={{"color": "#00D682"}}/>
               <h1>Linkedin</h1>
               <p>React, Node, Express, Mongo, Mongoose</p>
               <p className="in-progress">In progress...</p>
