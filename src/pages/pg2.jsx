@@ -1,22 +1,25 @@
 import React, { useEffect, useState } from "react";
 import { FaGithub, FaLinkedin, FaHackerrank, FaSpotify } from "react-icons/fa";
 import "../styles/pg2.css";
-import spotify from "../assets/spotify.png"
+import spotify from "../assets/spotify.png";
 
 const Pg2 = () => {
   return (
     <div id="pg2">
       <h6 className="title">Drita Skeraj</h6>
       <div className="container">
-            <div className="project-info">
-              <FaSpotify className="logo" />
-              <h1>Spotify</h1>
-              <p>React, Redux, Node, Express, Mongo, Mongoose</p>
-              <p className="in-progress">In progress...</p>
-            </div>
-            <div className="imgs-holder">
-            <img src={spotify} className="img1" />
-            </div>
+        <div className="project-info">
+          <FaSpotify className="logo" />
+          <h1>Spotify</h1>
+          <p>React.js, Redux</p>
+          <p className="in-progress">
+            In progress... <br />
+            <em></em>
+          </p>
+        </div>
+        <div className="imgs-holder">
+          <img src={spotify} className="img1" />
+        </div>
       </div>
       <div className="icons">
         <a href="https://github.com/DritaSkeraj/" target="_blank">

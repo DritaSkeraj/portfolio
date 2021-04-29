@@ -12,7 +12,7 @@ const Pg3 = () => {
             <div className="project-info">
               <FaLinkedin className="logo" style={{"color": "#00D682"}}/>
               <h1>Linkedin</h1>
-              <p>React, Node, Express, Mongo, Mongoose</p>
+              <p>React.js</p>
               <p className="in-progress">In progress...</p>
             </div>
             <div className="imgs-holder">
