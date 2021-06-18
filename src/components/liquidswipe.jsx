@@ -103,6 +103,7 @@ const Page = ({ children, theme, index, setActive, gone = false }) => {
     onRest: () => {
       if (isGone) {
         setDvalue(getPath(0, 0, w));
+        console.log('test')
       }
     },
   }));
